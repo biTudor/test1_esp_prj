@@ -11,3 +11,12 @@
 ## The second largest heading
 ###### The smallest heading
 > Pardon my French
+
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
